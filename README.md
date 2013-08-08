@@ -1,6 +1,6 @@
-With beaglejs, you can specify classname of tags that you want to track events in Google Analytics.
+With beaglejs, you can specify class of tags that you want to track in Google Analytics.
 
-No need to instrument all event entry points manually. Pass in a regex of your tags' class name and viola!
+No need to instrument all event points manually. Pass in a regex of your tags' class name and viola!
 
 setBeagle([Google Analytics ID], [App Domain], [regex of classnames]);
 
